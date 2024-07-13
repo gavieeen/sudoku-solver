@@ -1,0 +1,17 @@
+#solve {
+    margin: auto;
+    display: block;
+}
+
+#container div:hover {
+    background-color: rgb(250, 250, 135);
+}
+
+.fade-out {
+    transition: opacity 0.5s ease;
+    opacity: 0;
+}
+
+.spacing {
+    margin: 10px;
+}
